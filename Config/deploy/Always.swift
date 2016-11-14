@@ -3,8 +3,8 @@ import Flock
 class Always: Configuration {
     func configure() {
 		// UPDATE THESE VALUES BEFORE USING FLOCK:
-		Config.projectName = "VaporTodoSample"
-		Config.executableName = "VaporTodoSample" // Same as Config.projectName unless your project is divided into modules
+		Config.projectName = "VaporTodoAPISample"
+		Config.executableName = "VaporTodoAPISample" // Same as Config.projectName unless your project is divided into modules
 		Config.repoURL = "https://github.com/taji-taji/VaporTodoAPISample"
 		
 		// Optional config:

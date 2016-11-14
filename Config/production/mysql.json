@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "$VAPOR_MYSQL_USER",
+    "password": "$VAPOR_MYSQL_PASSWORD",
+    "database": "ToDoApp",
+    "port": "3306"
+}
